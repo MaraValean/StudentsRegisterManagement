@@ -1,0 +1,15 @@
+1,Computer System Architecture
+2,Algebra
+3,Calculus
+4,Computational Logic
+5,Fundamentals of Programming
+6,Sport
+7,Physics
+8,Chemistry
+9,English
+10,Romanian
+11,Biology
+12,Geometry
+13,Spanish
+14,Economics
+15,Math
